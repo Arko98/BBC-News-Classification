@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://github.com/Arko98/BBC-News-Classification/blob/master/Visualization/vecs.tsv",
+      "metadataPath": "https://github.com/Arko98/BBC-News-Classification/blob/master/Visualization/meta.tsv"
+    }
+  ]
+}
