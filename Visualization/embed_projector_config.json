@@ -6,8 +6,8 @@
         1000,
         50
       ],
-      "tensorPath": "https://github.com/Arko98/BBC-News-Classification/blob/master/Visualization/vecs.tsv",
-      "metadataPath": "https://github.com/Arko98/BBC-News-Classification/blob/master/Visualization/meta.tsv"
+      "tensorPath": "https://gist.githubusercontent.com/Arko98/ce06a5ef3c01d67a6348da25d56562e8/raw/8093c7b70ab8749f2bf7390f77bd3c26b130cc9e/vecs.tsv",
+      "metadataPath": "https://gist.githubusercontent.com/Arko98/ce06a5ef3c01d67a6348da25d56562e8/raw/8093c7b70ab8749f2bf7390f77bd3c26b130cc9e/meta.tsv"
     }
   ]
 }
